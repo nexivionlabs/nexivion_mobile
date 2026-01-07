@@ -1,24 +1,18 @@
 import 'package:flutter/material.dart';
+import 'features/home/screens/home_screen.dart';
 
 void main() {
-  runApp(const MyTestApp());
+  runApp(const NexivionApp());
 }
 
-class MyTestApp extends StatelessWidget {
-  const MyTestApp({super.key});
+class NexivionApp extends StatelessWidget {
+  const NexivionApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        body: Center(
-          child: Text(
-            'APP YAŞIYOR',
-            style: TextStyle(fontSize: 24),
-          ),
-        ),
-      ),
+      home: HomeScreen(),
     );
   }
 }

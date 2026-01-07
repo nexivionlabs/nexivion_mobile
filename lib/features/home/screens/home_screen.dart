@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/sections/hero_section.dart';
-
-
+import '../widgets/sections/services_section.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -12,21 +11,12 @@ class HomeScreen extends StatelessWidget {
       backgroundColor: Colors.black,
       body: SingleChildScrollView(
         child: Column(
-          children: 
-            HeroSection(
-              onGetStarted: () {
-                // şimdilik boş 
-              }
-            ),
-            
-          
+          children: [
+            HeroSection(),
+            ServicesSection(),
+          ],
         ),
       ),
     );
   }
 }
-
-class ProjectsSection {
-  const ProjectsSection();
-}
-
