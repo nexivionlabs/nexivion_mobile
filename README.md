@@ -5,18 +5,6 @@
 
 ----
 
-<img width="1024" height="1536" alt="Group 10" src="https://github.com/user-attachments/assets/88a3e7c8-694c-4162-b98f-042cc39ea008" />
-
-<img width="1033" height="1536" alt="Group 7" src="https://github.com/user-attachments/assets/6e9cda2b-e2f9-4262-82b6-a40160bc79a3" />
-
-<img width="1024" height="1536" alt="Group 8" src="https://github.com/user-attachments/assets/a1444683-0ef5-48d0-8306-22a2b2f4633f" />
-
-<img width="1024" height="1536" alt="Group 9" src="https://github.com/user-attachments/assets/0b2965f5-e07f-42d1-ad31-45b8cfc1d878" />
-
-<img width="1024" height="1536" alt="Group 11" src="https://github.com/user-attachments/assets/acac2376-2c50-418f-ac54-18fa03a681b0" />
-
-----
-
 ## 🇹🇷 Türkçe
 
 ### Nexivion Mobile Nedir?
@@ -133,3 +121,16 @@ This project follows these principles:
 ---
 
 Made with ❤️ by Nexivion
+
+
+<img width="320" height="480" alt="Group 10" src="https://github.com/user-attachments/assets/88a3e7c8-694c-4162-b98f-042cc39ea008" />
+
+<img width="320" height="480" alt="Group 7" src="https://github.com/user-attachments/assets/6e9cda2b-e2f9-4262-82b6-a40160bc79a3" />
+
+<img width="320" height="480" alt="Group 8" src="https://github.com/user-attachments/assets/a1444683-0ef5-48d0-8306-22a2b2f4633f" />
+
+<img width="320" height="480" alt="Group 9" src="https://github.com/user-attachments/assets/0b2965f5-e07f-42d1-ad31-45b8cfc1d878" />
+
+<img width="320" height="480" alt="Group 11" src="https://github.com/user-attachments/assets/acac2376-2c50-418f-ac54-18fa03a681b0" />
+
+----
