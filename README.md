@@ -37,6 +37,11 @@ Bu proje şu prensiplerle geliştirilmiştir:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef675792-654b-40dd-90e3-a8fe530e3631" />
 
 
+features/home/
+├── data        # Static / API-driven data sources
+├── models      # Single source of truth
+├── widgets     # Pure UI components
+├── sections    # Data → UI transformers
 
 ---
 
@@ -134,3 +139,7 @@ Made with ❤️ by Nexivion
 <img width="320" height="480" alt="Group 11" src="https://github.com/user-attachments/assets/acac2376-2c50-418f-ac54-18fa03a681b0" />
 
 ----
+## Roadmap
+- Projects section (data-driven)
+- Contact form integration
+- Admin / CMS-ready backend
