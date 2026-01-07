@@ -34,13 +34,17 @@ Bu proje şu prensiplerle geliştirilmiştir:
 
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef675792-654b-40dd-90e3-a8fe530e3631" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/ef675792-654b-40dd-90e3-a8fe530e3631" />
 
 
 features/home/
+
 ├── data        # Static / API-driven data sources
+
 ├── models      # Single source of truth
+
 ├── widgets     # Pure UI components
+
 ├── sections    # Data → UI transformers
 
 ---
@@ -92,7 +96,7 @@ This project follows these principles:
 
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe1b255d-9acb-4c04-b8f1-ae56e2c8089f" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/fe1b255d-9acb-4c04-b8f1-ae56e2c8089f" />
 
 
 
